@@ -1,58 +1,27 @@
-# Hi, I'm Alexandro Garcia 👋
+# Alexandro García
 
-**Technical Lead | Software Engineer | Frontend Architecture**
+**Tech Lead · Frontend Architecture · Software Engineering**
+Buenos Aires, Argentina · Open to remote work
 
-Software Engineer and Technical Lead with 10+ years of experience building and evolving web applications, with a strong focus on frontend architecture, scalable systems, engineering standards, and technical leadership.
+I help product teams build web platforms that stay maintainable as they grow: clear architecture, sound engineering practices, and teams that can ship with confidence.
 
-I work primarily with **React, Next.js, TypeScript, Angular, and Node.js**, designing maintainable frontend architectures, reusable platforms, microfrontend solutions, design systems, and integrations with backend services.
+I have 10+ years of experience building web applications. My recent roles combine technical leadership with frontend architecture, across logistics, fintech, cloud economics, healthcare and enterprise software. I work mainly with React, Angular, TypeScript and Node.js.
 
-## What I focus on
+## How I can help
 
-- Frontend architecture and technical strategy
-- React, Next.js, TypeScript and Angular
-- Microfrontends and modular architectures
-- Design Systems and reusable component platforms
-- Node.js, NestJS and API integrations
-- Testing strategy and engineering quality
-- Technical leadership, mentoring and code reviews
-- CI/CD and multi-environment applications
-- AI-assisted software development and engineering workflows
+- **Architecture reviews and modernization roadmaps** for React and Angular applications
+- **Modular and microfrontend architecture** design, including Module Federation
+- **Engineering standards:** testing strategy, code review practices and CI/CD
+- **Technical leadership and mentoring** for product teams
 
-## Tech stack
+## Public work
 
-**Frontend**  
-React · Next.js · TypeScript · JavaScript · Angular · RxJS · React Query · Redux · MobX
+Most of my professional work is private to the companies and clients I have worked with. The repository below is a public technical exercise, maintained to show how I approach architecture, testing and documentation:
 
-**Backend**  
-Node.js · NestJS · Express · REST APIs
+- **[Microfrontends with Module Federation](https://github.com/AleVzT/microfrontend-challenge)**: a host and two React remotes composed at runtime, with a shared i18n instance, remote error handling, tests, CI and documented trade-offs.
 
-**Testing**  
-Jest · React Testing Library
+Older repositories are archived as a record of how my work has evolved. They are not maintained.
 
-**Architecture & Engineering**  
-Microfrontends · Module Federation · Design Systems · Software Architecture · CI/CD
+## Contact
 
-**Databases**  
-PostgreSQL · MongoDB · MySQL
-
-## Experience
-
-I've worked on products and platforms across logistics, fintech, cloud economics, healthcare, and enterprise software.
-
-My recent experience includes technical leadership and architecture responsibilities, helping teams define solutions, improve engineering standards, review technical decisions, and deliver scalable frontend platforms.
-
-## Currently interested in
-
-I'm especially interested in opportunities involving:
-
-- Technical Leadership
-- Senior Software Engineering
-- Frontend Architecture
-- Full Stack Engineering
-- AI-assisted engineering and developer productivity
-
-## Connect with me
-
-- LinkedIn: [Ver Perfil](https://www.linkedin.com/in/agarcilu/)
-- Location: Buenos Aires, Argentina
-- Open to remote opportunities across LATAM and international teams
+[LinkedIn](https://www.linkedin.com/in/agarcilu/)
